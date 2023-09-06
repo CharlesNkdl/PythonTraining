@@ -4,6 +4,7 @@ A bunch of exercices, personal project, tutorials ...
 ## Beginner Python Project FCC #
 
 From Youtube : https://www.youtube.com/watch?v=8ext9G7xspg&t=7047s
+
 Made : 
 - **Madlibs** : A game of madlibs, use of string manipulation
 - **Guess Nbr** : Implementation of function, and use of random library, we can guess a number and the computer can guess the number too
@@ -15,6 +16,7 @@ Made :
 ## Automation ##
 
 From Youtube and improved for my usage : https://www.youtube.com/watch?v=vEQ8CXFWLZU&t=201s
+
 Made : 
 - **PhotoEditor** : With the pillow library and usage of file descriptors, modify pictures in batch, from the Edition directory to the Edited directory
 - **YtbDownloader** : With pytube, enter a ytb video as an argument to download only its audio(a personnal choice)
