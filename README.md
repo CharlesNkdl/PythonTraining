@@ -38,3 +38,8 @@ Then use nltk to tokenize, parse it, use stop word to lessen the number of non-i
 
 For example, here is the program used on a french news website (bfmtv.com) :
 ![Schema](/Scrapping/ScrapWritingOccu/figure.png)
+
+
+## Books ##
+
+Second brain and learn by doing method for various books
