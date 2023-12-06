@@ -15,7 +15,7 @@ base_url = argv[1]
 all_links = [base_url]
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'}
 output = os.getcwd() + "/output.txt"
-
+nltk.download('punkt')
 with open(output, "w") as f:
     f.write("")
 allsite.scrape_all(base_url, headers, base_url, all_links)
